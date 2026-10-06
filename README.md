@@ -2,8 +2,8 @@
 
 Full-stack music streaming application with Clerk authentication, MongoDB, Redux Toolkit player state, ShadCN UI, and admin uploads via Cloudinary.
 
-**Author:** [Yash Patidar](https://yashpatidar.vercel.app) · [Portfolio case study](https://yashpatidar.vercel.app/work/music-player)  
-**Repository:** [github.com/yashdark01/Music-Player](https://github.com/yashdark01/Music-Player)
+**Author:** [Mayuri Patidar] · [Portfolio case study]()  
+**Repository:** [github.com/Mayurii59/Music-Player](https://github.com/Mayurii59/Music-Player)
 
 ---
 
@@ -33,7 +33,7 @@ Full-stack music streaming application with Clerk authentication, MongoDB, Redux
 ## Project structure
 
 ```
-Music-Player/                 # GitHub: yashdark01/Music-Player
+Music-Player/                 # GitHub: Mayurii59/Music-Player
 ├── client/                   # React + Vite frontend (port 3000)
 ├── server/                   # Express API (port 3001)
 └── docs/
@@ -47,7 +47,7 @@ Music-Player/                 # GitHub: yashdark01/Music-Player
 ## Quick start
 
 ```bash
-git clone https://github.com/yashdark01/Music-Player.git
+git clone https://github.com/Mayurii59/Music-Player.git
 cd Music-Player
 
 # Server
@@ -105,6 +105,6 @@ Full setup: [docs/SETUP.md](./docs/SETUP.md)
 
 ## Related links
 
-- [Portfolio case study](https://yashpatidar.vercel.app/work/music-player)
-- [GitHub](https://github.com/yashdark01/Music-Player)
-- [LinkedIn](https://linkedin.com/in/yash-patidar-97a8861b3)
+- [Portfolio case study]()
+- [GitHub](https://github.com/Mayurii59/Music-Player)
+- [LinkedIn](https://www.linkedin.com/in/mayuri-patidar-b86a74281/)

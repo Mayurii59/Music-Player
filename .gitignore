@@ -1,3 +1,4 @@
+ssh -T git@github.com
 # Dependencies
 node_modules/
 
